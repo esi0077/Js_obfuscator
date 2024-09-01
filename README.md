@@ -14,7 +14,7 @@
    - go to file directory and open cmd
      - place your code into "Input.js"
         - run CMD
-           >node obfuscator.js
+           >node obfuscator.js <br>
                - the script will create the output.js for you 
                    - you are good to go place the script from output.js into your main script 
 
