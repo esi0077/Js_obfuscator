@@ -18,7 +18,11 @@
                - >the script will create the output.js for you 
                    - >you are good to go place the script from output.js into your main script 
 
-
+# Pictures
+>Before
+<img src="https://i.imgur.com/jzVUIvL.png">
+>After
+<img src="https://i.imgur.com/cvvE1Hg.png">
 # Todo
 
 - [ ] make third layer obfuscation
