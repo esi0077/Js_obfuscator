@@ -10,7 +10,7 @@
 
 # 🧰 How to use ?
 
-1. First download the last release 
+1. First download the lastest release 
    - >go to file directory and open cmd
      - >place your code into "Input.js"
         - >run CMD
