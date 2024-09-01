@@ -3,7 +3,7 @@
 ### Simple js obfuscator 
 
 
-> [!NOTE]
+[!NOTE]
 
 >This js obfuscator helps you to hide your code and adds junk code to your file to make your code harder to read 
 >it uses 2 method to hide the code
