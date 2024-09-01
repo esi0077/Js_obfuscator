@@ -22,5 +22,5 @@
 # Todo
 
 - [ ] make third layer obfuscation
-- [ ] make it harder to deobfuscat
-- [ ] make outpot dependency on ip that you want to see the code 
+- [ ] make it harder to deobfuscate
+- [ ] make outpot dependency on ip.If you want that a user can see the code 
