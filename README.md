@@ -13,9 +13,10 @@
 1. First download the last release 
    - go to file directory and open cmd
      - place your code into "Input.js"
-        - run the code node obfuscator.js
-            - the script will create the output.js for you 
-                - you are good to go place the script from output.js into your main script 
+        - run CMD
+           >node obfuscator.js
+               - the script will create the output.js for you 
+                   - you are good to go place the script from output.js into your main script 
 
 
 # Todo
