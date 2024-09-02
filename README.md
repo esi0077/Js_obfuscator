@@ -30,5 +30,6 @@
 # Todo
 
 - [ ] make third layer obfuscation
+- [ ] make the script license base
 - [ ] make it harder to deobfuscate
 - [ ] make outpot dependency on ip.If you want that a user can see the code 
