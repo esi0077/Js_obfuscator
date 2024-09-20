@@ -27,9 +27,22 @@
 
 <img src="https://i.imgur.com/cvvE1Hg.png">
 
+# Update 🟢
+
+1. Now by enter the following code  you can create license on your script 
+   - >go to file directory and open cmd
+     - >place your code into "Input.js" and type a valid key/license in your obfuscator.js
+        - >run CMD
+           - >node obfuscator.js <br>
+               - >the script will create the output.js for you 
+                   - >you are good to go 
+
+
+
+
 # Todo
 
 - [ ] make third layer obfuscation
-- [ ] make the script license base
+- [x] make the script license base
 - [ ] make it harder to deobfuscate
 - [ ] make outpot dependency on ip.If you want that a user can see the code 
